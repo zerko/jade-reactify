@@ -30,11 +30,11 @@
     "react": "~0.8.0"
   },
   "peerDependencies": {
-    "jade-react": "~0.1.0",
+    "jade-react": "~0.2.0",
     "browserify": ">= 2.4.0 < 4"
   },
   "dependencies": {
-    "jade-react": "~0.1.0",
+    "jade-react": "~0.2.0",
     "through": "~2.3.4"
   }
 }
